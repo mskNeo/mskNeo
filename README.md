@@ -4,7 +4,9 @@ I'm joking. My name is Mahdeen Khan, but I go by Neo. I am a student at Yale Uni
 I am currently learning React and designing my own web-based projects for fun! I am working towards being a Frontend Developer, and hopefully soon, a Full Stack Developer.
 
 💻 Languages I Know: HTML, CSS, Vanilla JavaScript, Python, C
+
 🎥 Fun Fact: I was indeed named after the main character from the Matrix series.
+
 📫 How to reach me: My email is mahdeen.s.khan@yale.edu.
 
 <!--
