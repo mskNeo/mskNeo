@@ -1,9 +1,12 @@
-## Hi all, and welcome to King Khan's Domain
+# Hi all, and welcome to King Khan's Domain
 I'm joking. My name is Mahdeen Khan, but I go by Neo. I am a student at Yale University majoring in Computing and the Arts. This is a new major which is a cross between Computer Science and Visual Art.
 
-I am currently working on my Frontend Skills by learning React and designing my own web-based projects for fun!
+I am currently learning React and designing my own web-based projects for fun! I am working towards being a Frontend Developer, and hopefully soon, a Full Stack Developer.
+
+💻 Languages I Know: HTML, CSS, Vanilla JavaScript, Python, C
 
 🎥 Fun Fact: I was indeed named after the main character from the Matrix series.
+📫 How to reach me: My email is mahdeen.s.khan@yale.edu.
 
 <!--
 **MrSuperNero/MrSuperNero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
