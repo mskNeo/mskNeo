@@ -1,4 +1,4 @@
-# Hi all, and welcome to My Domain
+# Hi all, and welcome to my Domain
 My name is Mahdeen Khan, but I go by Neo. I am a student at Yale University majoring in Computing and the Arts, which is a joint major between Computer Science and Visual Art.
 
 I am currently learning React and designing my own web-based projects for fun! I am working towards being a Frontend Developer, and hopefully soon, a Full Stack Developer.
