@@ -1,11 +1,11 @@
-# Hi all, and welcome to King Khan's Domain
-My name is Mahdeen Khan, but I go by Neo. I am a student at Yale University majoring in Computing and the Arts. This is a new major which is a cross between Computer Science and Visual Art.
+# Hi all, and welcome to My Domain
+My name is Mahdeen Khan, but I go by Neo. I am a student at Yale University majoring in Computing and the Arts, which is a joint major between Computer Science and Visual Art.
 
 I am currently learning React and designing my own web-based projects for fun! I am working towards being a Frontend Developer, and hopefully soon, a Full Stack Developer.
 
-💻 Languages and Frameworks I Know: HTML, CSS, JavaScript, React, Python, C
+💻 Languages, Libraries, and Frameworks I Know: HTML, CSS, JavaScript, React, NodeJS, d3.js, Python, C
 
-🎥 Fun Fact: I was indeed named after the main character from the Matrix series.
+🎥 Fun Fact: I was indeed named after Keanu Reeves' character from the Matrix series.
 
 📫 How to reach me: My email is mahdeen.s.khan@yale.edu.
 
