@@ -7,7 +7,7 @@ I am currently learning React and designing my own web-based projects for fun! I
 
 🎥 Fun Fact: I was indeed named after Keanu Reeves' character from the Matrix series.
 
-📫 How to reach me: My email is mahdeen.s.khan@yale.edu.
+📫 How to reach me: My email is mahdeenkhan99@gmail.com.
 
 <!--
 **MrSuperNero/MrSuperNero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
