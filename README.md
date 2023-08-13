@@ -2,7 +2,7 @@
 My name is Mahdeen Khan, but I go by Neo. I graduated from Yale University with a major in Computing and the Arts. I am currently an Associate Full Stack Software Engineer for Zwift. I create web apps with Next.JS, React, Angular, and TypeScript while also developing in the backend with Java and Kotlin.
 
 
-💻 Technology I Know: JavaScript, React, TypeScript, Node.JS, Next.JS, Java (Spring Boot), Python, C
+💻 Technology I Know: JavaScript, TypeScript, Node.js, React, Next.js, Java (Spring Boot), Kotlin (Quarkus), Python, C
 
 🎥 Fun Fact: I was indeed named after Keanu Reeves' character from the Matrix series.
 
