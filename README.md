@@ -1,5 +1,5 @@
 # Hi all, and welcome to my Domain
-My name is Mahdeen Khan, but I go by Neo. I graduated from Yale University with a major in Computing and the Arts. I am currently an Associate Full Stack Software Engineer for Zwift. I create web apps with Next.JS, React, Angular, and TypeScript while also developing in the backend with Java and Kotlin.
+My name is Mahdeen Khan, but I go by Neo. I graduated from Yale University with a major in Computing and the Arts. I am a Full Stack Software Engineer. I create web apps with React, Angular, and TypeScript while also developing in the backend with Node.js, Java, and Kotlin.
 
 
 💻 Technology I Know: JavaScript, TypeScript, Node.js, React, Next.js, Java (Spring Boot), Kotlin (Quarkus), Python, C
